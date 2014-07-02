@@ -1,1 +1,23 @@
-...
+ccc ddd
+3 ccc->cdc->cdd->ddd
+dog big
+3 dog->dag->bag->big
+bug dog
+3 bug->bag->dag->dog
+kit fit
+1 kit->fit
+kit fat
+2 kit->fit->fat
+kit eat
+3 kit->fit->fat->cat->eat
+bug hut
+2 bug->hug->hut
+ccc sit
+10 ccc->cdc->cdd->ddd->dad->dag->bag->bat->cat->eat->fat->fit->kit->sit
+dad ccc
+4 dad->ddd->cdd->cdc->ccc
+dog dog
+0 dog
+dog fff
+-1 Not reachable !
+
