@@ -2,7 +2,7 @@
 // String Handling
 // One edit distance queries.
 // Complexity O(wnlogn + (25w**2)n) for preprocessing & O(n + nw) per query.
-// n = # of dictionary words.
+// n = total number of dictionary words.
 // w = word length.
 
 #include <stdio.h>
